@@ -1,0 +1,9 @@
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+}
+.card-body {
+    height: 220px;
+    overflow-y: auto;
+}
